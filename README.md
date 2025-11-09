@@ -2,7 +2,7 @@
 
 ## If this project is constructive, welcome to donate a drink to PayPal.
 
-<img src="images/qrcode.png" style="height:20%; width:20%">
+<img src="images/qrcode.png" style="height:20%; width:20%"/>
 
 or 
 
@@ -45,8 +45,8 @@ Where both HDMI core and MIPI CSI 2 for SONY based CMOS uses 74.25M integer freq
 
 | HW no | Description | Image |
 |-|-|-|
-| 1 | CMOS (camera) | <img src="images/imx291.png" style="width=200">
-| 2 | Development Board | <img src="images/EVM.JPG" style="width=200">
+| 1 | CMOS (camera) | <img src="images/imx291.png" width="200"/> |
+| 2 | Development Board | <img src="images/EVM.JPG" width="200"/> |
 
 # Feature and Support
 
@@ -58,7 +58,7 @@ Where both HDMI core and MIPI CSI 2 for SONY based CMOS uses 74.25M integer freq
 
 # CMOS Capture image
 
-<img src="images/frame_color.png" style="height:10%; width:10%">
+<img src="images/frame_color.png" width="600"/>
 
 # ToDo
 
